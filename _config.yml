@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Yaten's Caching Adventures
+description:      'Yaten caches, one county at a time'
+url:              http://yatencaches.github.io
+baseurl:          /blog
+
+author:
+  name:           'Yaten'
+  url:            http://geocaching.com/profile/?u=Yaten
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
