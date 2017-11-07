@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Yaten's Caching Adventures
 description:      'Yaten caches, one county at a time'
 url:              http://yatencaches.github.io
-baseurl:          /blog
+baseurl:          /
 
 author:
   name:           'Yaten'
